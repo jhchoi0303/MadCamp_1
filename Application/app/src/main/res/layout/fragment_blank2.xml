@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".BlankFragment2">
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/round_button"
+        android:text="+"></Button>
+
+
+    <com.synnapps.carouselview.CarouselView
+        android:id="@+id/carousel"
+
+        android:layout_width="match_parent"
+        android:layout_height="237dp"
+        android:background="#FF000000"
+        app:fillColor="#65E456"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.587"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.204"
+        app:pageColor="#ffffff"
+        app:radius="5dp"
+        app:slideInterval="2000"
+        app:strokeColor="#7D7D7D">
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="340dp"
+            android:layout_height="163dp"
+            android:layout_gravity="center|right"
+            android:fontFamily="@font/pixel2"
+            android:gravity="top|left"
+            android:text="Gallery"
+            android:textColor="#FFffffff"
+            android:textSize="40dp" />
+    </com.synnapps.carouselview.CarouselView>
+
+    <GridView
+        android:id="@+id/gridViewImages"
+        android:layout_width="409dp"
+        android:layout_height="474dp"
+        android:layout_below="@+id/carousel"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="#FF000000"
+        android:gravity="center_horizontal"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:verticalSpacing="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.701"
+        app:layout_constraintStart_toStartOf="parent"></GridView>
+
+
+</RelativeLayout>

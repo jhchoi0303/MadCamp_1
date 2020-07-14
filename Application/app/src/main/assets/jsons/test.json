@@ -1,0 +1,16 @@
+[
+  {"name":  "Mr.Park","msg":  "010-1234-4567", "occ": "Dad"},
+  {"name":  "John","msg":  "010-1876-4578", "occ" : "Friend"},
+  {"name":  "Mary","msg":  "010-1236-9876", "occ" : "Friend"},
+  {"name":  "Jihyun","msg":  "010-9126-1344", "occ" : "Sister"},
+  {"name":  "Changjun","msg":  "010-9126-2341", "occ" : "Brother"},
+  {"name":  "Ms.Kim","msg":  "010-1234-4567", "occ": "Mom"},
+  {"name":  "Kim","msg":  "010-9876-2341", "occ" : "Friend"},
+  {"name":  "Park","msg":  "010-9126-2341", "occ" : "Grandpa"},
+  {"name":  "Jason","msg":  "010-1876-4578", "occ" : "Grandma"},
+  {"name":  "Song","msg":  "010-1236-9876", "occ" : "Great-grandpa"},
+  {"name":  "Ms.Kim","msg":  "010-1234-4567", "occ": "Great-grandma"},
+  {"name":  "Choi","msg":  "010-3456-0303", "occ" : "Uncle"},
+
+
+]
