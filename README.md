@@ -20,7 +20,7 @@ When an item is pressed short, a new activity opens to show the item information
 
 ## :camera: Gallery tab
 
-- The gallery tab shows the pictures in the drawable file in a Grid View. There is also a carousel about the grid view.
+- The gallery tab shows the pictures in the drawable file in a Grid View. There is also a carousel above the grid view.
 
 When a picture is pressed in the grid, the picture is expanded. 
 
@@ -34,4 +34,4 @@ The carousel can be moved side to side by swiping, and it also moves automatical
 
 - The quiz tab is a tab where players can play a quiz game. 
 
-The content quiz game is usually about Android Studio or Github. The answer text moves randomly inside the screen, and there are also other items that are moving in the screen too. The players should get all questions right in order to get a reward. 
+The content of the quiz game is usually about Android Studio or Github. The answer text moves randomly inside the screen, and there are also other items that are moving in the screen too. The players should get all questions right in order to get a reward. 
