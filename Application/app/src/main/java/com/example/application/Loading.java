@@ -60,13 +60,13 @@ public class Loading extends AppCompatActivity {
 
         tab1.setText("");
         tab1.setCharacterDelay(150);
-        tab1.animateText("App\\Tab1> Phonebook ");
+        tab1.animateText("PIXEL\\Tab1> Phonebook ");
         tab2.setText("");
         tab2.setCharacterDelay(150);
-        tab2.animateText("App\\Tab2> Gallery ");
+        tab2.animateText("PIXEL\\Tab2> Gallery ");
         tab3.setText("");
         tab3.setCharacterDelay(150);
-        tab3.animateText("App\\Tab3> Quiz ");
+        tab3.animateText("PIXEL\\Tab3> Quiz ");
 
         tab5.setText("");
         tab5.setCharacterDelay(100);

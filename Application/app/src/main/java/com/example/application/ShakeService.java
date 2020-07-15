@@ -59,17 +59,17 @@ public class ShakeService extends Service implements SensorEventListener {
 
         if (mAccel >30) {
             ServiceActivity.reward.setImageResource(R.drawable.item_3);
-            ServiceActivity.rewardText.setText("Best Prize. \nShake Again!");
+            ServiceActivity.rewardText.setText("Best Prize. \nExit!");
         }
 
         else if(mAccel >20){
             ServiceActivity.reward.setImageResource(R.drawable.item_2);
-            ServiceActivity.rewardText.setText("Second Best Prize. \nShake Again!");
+            ServiceActivity.rewardText.setText("Second Best Prize. \nShake Again or Exit!");
         }
 
         else if(mAccel >15){
             ServiceActivity.reward.setImageResource(R.drawable.item_1);
-            ServiceActivity.rewardText.setText("Worst Prize. \nExit!");
+            ServiceActivity.rewardText.setText("Worst Prize. \nShake Again or Exit!");
         }
 
 

@@ -17,6 +17,6 @@ public class HowToPlay extends Activity {
 
         how.setText("");
         how.setCharacterDelay(100);
-        how.animateText("Solve a quiz about Android studio and Github. \n \nEvery question is randomly given ");
+        how.animateText("Solve the quiz. The answer moves inside the screen. \n \nEvery question is randomly given ");
     }
 }

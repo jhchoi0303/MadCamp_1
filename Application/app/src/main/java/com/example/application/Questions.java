@@ -9,8 +9,10 @@ public class Questions {
             "What is not one of the templates in Android Studio?",
             "What command do we use to push?",
             "What command do we use to switch branches?",
-            "Which one is the finest food in Kaist?",
-            "Which one has highest social rank in Kaist?"
+            "What is the symbol color of Korea University?",
+            "Which one has highest social rank in Kaist?",
+            "What is 1+1?",
+            "What is Github's mascot?"
     };
 
     private String mChoices[][] = {
@@ -19,11 +21,13 @@ public class Questions {
             {"Tabbed Activity", "Basic Activity","Empty Activity","List Activity"},
             {"commit", "git log","git push","git branch"},
             {"git branch", "git checkout","git push","git commit"},
-            {"java","N1","github","Ddukbaegi"},
-            {"Undergraduate","Cat","Graduate","Goose"}
+            {"Crimson","Pink","Red","Blue"},
+            {"Undergraduate","Cat","Graduate","Goose"},
+            {"2","0","1","3"},
+            {"Mickey mouse","Octocat","Tiger","Lion"}
     };
 
-    private String mCorrectAnswers[] = {"java", "ListView", "List Activity", "git push","git checkout","Ddukbaegi","Goose"};
+    private String mCorrectAnswers[] = {"java", "ListView", "List Activity", "git push","git checkout","Crimson","Goose","2","Octocat"};
 
     public String getQuestion(int a) {
         String question = mQuestions[a];
