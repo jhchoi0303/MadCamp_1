@@ -35,3 +35,9 @@ The carousel can be moved side to side by swiping, and it also moves automatical
 - The quiz tab is a tab where players can play a quiz game. 
 
 The content of the quiz game is usually about Android Studio or Github. The answer text moves randomly inside the screen, and there are also other items that are moving in the screen too. The players should get all questions right in order to get a reward. 
+
+
+## Demo
+
+<img alt="Main Page" src="https://raw.githubusercontent.com/jhchoi0303/MadCamp_1/master/assets/main_page.png" align="left"/>
+<img alt="Quiz Page" src="https://raw.githubusercontent.com/jhchoi0303/MadCamp_1/master/assets/quize_page.png" align="right"/>
