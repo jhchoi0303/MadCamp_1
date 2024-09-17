@@ -2,7 +2,7 @@
 
 ##### 2020.07.08 ~ 2020.07.14.
 
-##### Made by Choi jihyun, Lee changjun.
+##### Made by Choi jihyun, Lee changjun in KAIST Madcamp
 
 #### Our Application consists of three tabs: Tab1, Tab2, Tab3; Tab1 is a Phonebook tab, Tab2 is a Gallery tab, Tab3 is is a Quiz tab.
 
@@ -40,4 +40,4 @@ The content of the quiz game is usually about Android Studio or Github. The answ
 ## Demo
 
 <img alt="Main Page" src="https://raw.githubusercontent.com/jhchoi0303/MadCamp_1/master/assets/main_page.png" align="left"/>
-<img alt="Quiz Page" src="https://raw.githubusercontent.com/jhchoi0303/MadCamp_1/master/assets/quize_page.png" align="right"/>
+<img alt="Quiz Page" src="https://raw.githubusercontent.com/jhchoi0303/MadCamp_1/master/assets/quiz_page.png" align="right"/>
