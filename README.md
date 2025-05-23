@@ -4,7 +4,7 @@
 
 ##### Made by Choi jihyun, Lee changjun in KAIST Madcamp
 
-#### Our Application consists of three tabs: Tab1, Tab2, Tab3; Tab1 is a Phonebook tab, Tab2 is a Gallery tab, Tab3 is is a Quiz tab.
+#### Our Application consists of three tabs: Tab1, Tab2, Tab3; Tab1 is a Phonebook tab, Tab2 is a Gallery tab, Tab3 is a Quiz tab.
 
 
 
@@ -14,7 +14,7 @@
 
 When an item is pressed short, a new activity opens to show the item information in a bigger screen. There is also a "Call" button to call the saved number automatically.
 
- Additionally, when an item is pressed long, a menu pops up. There is "modify info" and "delete". You can modify the name, number, or occupation of the data. You can also delete the info
+ Additionally, when an item is pressed long, a menu pops up. There is "modify info" and "delete". You can modify the name, number, or occupation of the data. You can also delete the info.
 
 
 
@@ -30,7 +30,7 @@ The carousel can be moved side to side by swiping, and it also moves automatical
 
 
 
-## :video_game:Quiz tab
+## :video_game: Quiz tab
 
 - The quiz tab is a tab where players can play a quiz game. 
 
